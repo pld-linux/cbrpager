@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=cbrpager
+Comment=Small viewer for CBR (comic book archive) files
+Comment[pl]=Mała przeglądarka plików CBR (comic book archive)
+Exec=cbrpager
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=GTK;Graphics;Viewer;
+Encoding=UTF-8
+# vi: encoding=utf-8
