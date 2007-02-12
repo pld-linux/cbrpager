@@ -1,5 +1,5 @@
 Summary:	Small viewer of CBR (comic book archive) files
-Summary(pl):	Ma³a przegl±darka plików CBR (comic book archive)
+Summary(pl.UTF-8):   MaÅ‚a przeglÄ…darka plikÃ³w CBR (comic book archive)
 Name:		cbrpager
 Version:	0.9.14
 Release:	1
@@ -20,8 +20,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Small viewer of CBR (comic book archive) files.
 
-%description -l pl
-Ma³a przegl±darka plików CBR (comic book archive).
+%description -l pl.UTF-8
+MaÅ‚a przeglÄ…darka plikÃ³w CBR (comic book archive).
 
 %prep
 %setup -q
