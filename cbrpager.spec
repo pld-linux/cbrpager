@@ -1,5 +1,5 @@
 Summary:	Small viewer of CBR (comic book archive) files
-Summary(pl.UTF-8):   Mała przeglądarka plików CBR (comic book archive)
+Summary(pl.UTF-8):	Mała przeglądarka plików CBR (comic book archive)
 Name:		cbrpager
 Version:	0.9.14
 Release:	1
