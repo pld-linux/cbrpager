@@ -1,12 +1,12 @@
 Summary:	Small viewer of CBR (comic book archive) files
 Summary(pl.UTF-8):	Mała przeglądarka plików CBR (comic book archive)
 Name:		cbrpager
-Version:	0.9.14
+Version:	0.9.18
 Release:	1
 License:	GPL v2
 Group:		X11/Applications
 Source0:	http://dl.sourceforge.net/cbrpager/%{name}-%{version}.tar.gz
-# Source0-md5:	0ce88fc52025b44812d090d10244b2a4
+# Source0-md5:	27808815b748d60c1ad3fc66adc62cfc
 Source1:	%{name}.desktop
 URL:		http://cbrpager.sourceforge.net/
 BuildRequires:	autoconf
